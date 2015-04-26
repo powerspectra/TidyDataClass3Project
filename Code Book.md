@@ -123,3 +123,4 @@ write.csv(newdatasetV, "tidyData.csv", row.names=FALSE)
 ##The readme file can be found here:
 https://github.com/powerspectra/TidyDataClass3Project/blob/master/README.md
 ##The code can be found here:
+https://github.com/powerspectra/TidyDataClass3Project/blob/master/run_analysis.R
