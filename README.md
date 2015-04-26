@@ -76,3 +76,10 @@ write.table(newdatasetV, "tidyData.txt", row.names=FALSE)
 	uncomment out the line below to use excel to view
 	data
 write.csv(newdatasetV, "tidyData.csv", row.names=FALSE)
+
+
+
+##The codebook file can be found here:
+https://github.com/powerspectra/TidyDataClass3Project/blob/master/Code%20Book.md
+##The code can be found here:
+https://github.com/powerspectra/TidyDataClass3Project/blob/master/run_analysis.R
